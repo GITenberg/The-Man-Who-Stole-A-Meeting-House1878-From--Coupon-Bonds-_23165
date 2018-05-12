@@ -1,0 +1,32 @@
+_repo: The-Man-Who-Stole-A-Meeting-House1878-From--Coupon-Bonds-_23165
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trowbridge, J. T. (John Townsend)
+    aliases:
+    - Trowbridge, John Townsend
+    - Trowbridge, J.T.
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '9020'
+    url: http://www.gutenberg.org/2009/agents/9020
+    wikipedia: http://en.wikipedia.org/wiki/John_Townsend_Trowbridge
+description: ''
+gutenberg_issued: '2007-10-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+title: 'The Man Who Stole A Meeting-House
+
+  1878, From "Coupon Bonds"'
+url: http://www.gutenberg.org/ebooks/23165
